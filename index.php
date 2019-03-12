@@ -3,7 +3,7 @@
 /*
 	Plugin Name: Moddit Plugin
 	Description: This is for updating your Wordpress plugin.
-	Version: 1.0.0
+	Version: 1.0.1
 	Author: Kevin Brinkman
 	Author URI: http://www.moddit.nl
 */
